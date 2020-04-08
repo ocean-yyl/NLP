@@ -1,0 +1,7 @@
+tokenize        分词
+corpus          语料库
+lemma/stemming  归一化
+post_tag        词性
+stopwords       停用词
+feature         特征
+sentiment dictionary 情感词典

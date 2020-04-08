@@ -1,0 +1,10 @@
+/__pycache__
+/.idea
+*.tsv
+/.ipynb_checkpoints
+/test
+*.pkl
+*.model
+*.txt
+*.csv
+*.npy

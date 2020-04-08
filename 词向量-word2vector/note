@@ -1,0 +1,11 @@
+one-hot
+tf-idf
+bag of words
+n-gram  n元模型
+语言模型
+分布式表示->用一个词附近的其他词来表示该词。【语义<-上下文】   ---Word-Document的共现矩阵   ---SVD降维
+NNLM    Neural Network Language Model
+
+【word2vec是基于上下文的！！！】
+word2vec<---CBOW(连续词袋)
+word2vec<---Skip-Gram模型
